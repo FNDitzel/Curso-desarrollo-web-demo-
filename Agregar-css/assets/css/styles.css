@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+*html{
+    font-size: 62.5% ;
+}
+nav {
+    display: flex;
+    width: 100% ;
+}
+.nav__list {
+    display: flex;
+    list-style-type: none;
+    gap: 20px;  
+}
+a{
+    text-decoration:none;
+    color:blue;
+    font-size: xx-large;
+}
+.title__index { 
+    background-color: brown;
+}
+.title__index2 {
+    background-color: darkgreen;
+}
+.title__service { 
+    background-color: blue;
+    background-position: 25cm;
+}
+.title__plans {
+    background-color:  chocolate);
+}
+.nav__post {
+    display: flex;
+    text-decoration: solid;
+    color: darkslateblue;
+}
+.nav__venta {
+    text-decoration: blueviolet;
+    text-size-adjust: 10cm;
+}
+.nav__aut {
+    background-color: orange;
+    text-decoration: solid
+    
+}
+.nav__autt {
+    background-color: orange;
+    text-decoration: solid;
+}
+p{ color: red; font-size: larger ;}
+.nav__ah {
+    background-color: coral;
+}
